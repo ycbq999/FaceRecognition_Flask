@@ -1,3 +1,51 @@
+# A udemy course that build webapp with machine learning technology
+
+
+## For local linux VSC development 
+
+- Create Virtual Environment Commands: 
+
+    virtualenv ~/face_recognition_venv
+
+    source ~/face_recognition_venv/bin/activate
+
+- Go to File -> Preferences -> Settings -> Workplace  top corner button open settings (json) add following code 
+
+{        
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.defaultInterpreterPath": "/home/ycbq999/face_recognition_venv/bin/python"
+}
+
+- Reference [https://www.youtube.com/watch?v=g7bg2ADfx4c&t=64s&ab_channel=JohnSolly]
+
+
+## URL dataset for face images with age and gender labels
+
+- IMDB WIKI [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Original Readme
+
 # Face Recognition Web App with Machine Learning & Flask
 Face recognition is one of the most widely used in my application. If at all you want to develop and deploy the application on the web only knowledge of machine learning or deep learning is not enough. You also need to know the creation of pipeline architecture and call it from the client-side, HTTP request, and many more. While doing so you might face many challenges while developing the app. This course is structured in such a way that you can able to develop the face recognition based web app from scratch.
 ### Final Ouptut of the project
