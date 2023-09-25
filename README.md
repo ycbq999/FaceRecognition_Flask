@@ -24,7 +24,9 @@
 - IMDB WIKI [https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/]
 
 
+# EigenImages for face recognition reading highly recommended
 
+- reference [https://drive.google.com/file/d/1pwoegMb98_b3wsRiDHQN4smPyAwWrotF/view?usp=drive_link]
 
 
 
