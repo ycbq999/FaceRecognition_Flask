@@ -20,9 +20,7 @@ def genderapp():
     if request.method == 'POST':
         f = request.files['image_name']
         filename = f.filename   
-
         # save our image in upload folder
-
         path = os.path.join(UPLOAD_FOLDER, filename)
         f.save(path) # save image in upload folder
 
